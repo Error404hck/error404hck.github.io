@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on error404</title>
+    <title>Categories on Error404</title>
     <link>https://error404hck.github.io/categories/</link>
-    <description>Recent content in Categories on error404</description>
+    <description>Recent content in Categories on Error404</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>en</language>
     
 	<atom:link href="https://error404hck.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
